@@ -3,7 +3,7 @@ nombre = prompt("Por favor, ingresa tu nombre:")
 
 alert("Bienvenido a nuestro ecommerce, " + nombre + ".")
 
-var categoria = prompt("¿Qué desea comprar?\nElija la opción 1 para remeras o la opción 2 para pantalones.")
+var categoria = prompt("¿Qué desea comprar?\n Digite el numero 1 para remeras o el numero 2 para pantalones.")
 
 switch (categoria) {
     case "1":
